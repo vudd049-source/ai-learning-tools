@@ -1,2 +1,8 @@
-# ai-learning-tools
-Collection of AI learning tools and experiments
+# AI Learning Tools
+
+Collection of AI learning tools for kids.
+
+## Tools
+- Prompt generator
+- Image generator
+- Chat bot examples
